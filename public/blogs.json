@@ -1,0 +1,52 @@
+[
+  {
+    "id": 10001,
+    "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=800&q=80",
+    "title": "Exploring the Future of AI",
+    "author": "John Doe",
+    "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?auto=format&fit=crop&w=200&q=80",
+    "posted_date": "2025-09-14",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": 10002,
+    "cover": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "title": "Mastering JavaScript in 30 Days",
+    "author": "Jane Smith",
+    "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&q=80",
+    "posted_date": "2025-09-10",
+    "reading_time": 8,
+    "hashtags": ["#JavaScript", "#WebDev", "#Programming"]
+  },
+  {
+    "id": 10003,
+    "cover": "https://images.unsplash.com/photo-1522199710521-72d69614c702?auto=format&fit=crop&w=800&q=80",
+    "title": "The Science Behind Good Habits",
+    "author": "Alex Carter",
+    "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+    "posted_date": "2025-08-29",
+    "reading_time": 6,
+    "hashtags": ["#Habits", "#SelfGrowth", "#Motivation"]
+  },
+  {
+    "id": 10004,
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "title": "Building Scalable Web Apps with Node.js",
+    "author": "Sophia Lee",
+    "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=200&q=80",
+    "posted_date": "2025-09-01",
+    "reading_time": 10,
+    "hashtags": ["#NodeJS", "#Backend", "#WebDevelopment"]
+  },
+  {
+    "id": 10005,
+    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+    "title": "Top 10 UI/UX Design Trends of 2025",
+    "author": "Michael Brown",
+    "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=200&q=80",
+    "posted_date": "2025-09-12",
+    "reading_time": 7,
+    "hashtags": ["#UIUX", "#Design", "#Trends2025"]
+  }
+]
