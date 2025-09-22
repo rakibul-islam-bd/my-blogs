@@ -34,8 +34,8 @@ function App() {
         </div>
 
         <div className="right-container w-[30%]">
-          <h1>Reading Time: {readingCount} </h1>
-          <h1>Bookmarked count: {bookmarked.length}</h1>
+          <h1>Reading Time: { readingCount} </h1>
+          <h1>Bookmarked count: { bookmarked.length}</h1>
           {bookmarked.map((marked) => (
             <p key={marked.id} className="bg-slate-700 p-2 shadow m-2">
               {marked.title}
